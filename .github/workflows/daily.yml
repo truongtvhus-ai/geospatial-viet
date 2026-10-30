@@ -1,62 +1,51 @@
-
 name: GeoSpatial Viet - Update and Publish
-
 on:
-  workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
-    - cron: '0 1 * * *'
-
+    - cron: '0 1 * * *' # 08:00 Asia/Ho_Chi_Minh
+  workflow_dispatch:
 permissions:
   contents: write
   pages: write
   id-token: write
-
 concurrency:
   group: geospatial-viet-pages
   cancel-in-progress: false
-
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
         with:
-          python-version: '3.11'
-
-      - name: Install dependencies
+          python-version: '3.12'
+      - name: Install updater dependencies
+        if: github.event_name != 'push'
         run: pip install -r requirements.txt
-
-      - name: Update articles and analysis
+      - name: Fetch and summarize new items
+        if: github.event_name != 'push'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
         run: python scripts/update.py
-
-      - name: Save updated data
+      - name: Save new articles to repository
+        if: github.event_name != 'push'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update GeoSpatial Viet news"
+            git commit -m 'Daily news update'
             git push
           fi
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload website
-        uses: actions/upload-pages-artifact@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
-
-      - name: Deploy website
-        id: deployment
+          path: .
+      - id: deployment
         uses: actions/deploy-pages@v4
