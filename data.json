@@ -1,0 +1,164 @@
+{
+  "updated_at": "2026-10-30T09:25:00+07:00",
+  "status": "demo",
+  "articles": [
+    {
+      "id": "geo-hexagon",
+      "title_vi": "Hexagon mua Rocscience: kết nối giám sát địa kỹ thuật với mô hình dự báo",
+      "title_original": "Hexagon Is Buying Rocscience to Close the Gap Between Monitoring and Prediction",
+      "summary_vi": "Thương vụ được Geoawesome phân tích dưới góc nhìn tích hợp dữ liệu giám sát hiện trường với mô hình dự báo địa kỹ thuật. Đáng chú ý cho giám sát sườn dốc, mỏ và quản lý rủi ro công trình.",
+      "published": "2026-10-11",
+      "author": "Aleks Buczkowski",
+      "category": "Công nghệ GIS",
+      "url": "https://geoawesome.com/hexagon-rocscience-monitoring-predictive-geotechnical-models/",
+      "keywords": [
+        "Địa kỹ thuật",
+        "Giám sát"
+      ],
+      "featured": true,
+      "geo_perspective": {
+        "science_value": "Khả năng tích hợp quan trắc địa kỹ thuật với mô hình dự báo giúp chuyển từ bản đồ hiện trạng sang đánh giá biến động và rủi ro theo thời gian.",
+        "vietnam_application": "Có thể thử xây dựng khung theo dõi trượt lở sườn dốc tại miền núi phía Bắc, kết hợp số liệu quan trắc, địa hình và điều kiện mưa.",
+        "tools": [
+          "GIS",
+          "DEM",
+          "InSAR",
+          "Mô hình ổn định mái dốc"
+        ],
+        "research_prompt": "Thiết kế đề cương đối chiếu dự báo trượt lở từ mô hình với chuỗi đo hiện trường và dữ liệu mưa.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-google",
+      "title_vi": "Google Earth AI hướng tới hạ tầng dữ liệu không gian cho y tế công cộng",
+      "title_original": "Google Earth AI Wants to Turn Place Into Public-Health Infrastructure",
+      "summary_vi": "Mô hình Population Dynamics Foundation Model kết hợp các tín hiệu tổng hợp về di chuyển, môi trường và đặc điểm địa điểm nhằm hỗ trợ dự báo dịch bệnh. Tiềm năng lớn nhưng cần kiểm chứng độ tin cậy và quản trị dữ liệu.",
+      "published": "2026-10-07",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/google-earth-ai-public-health-geospatial-foundation-models/",
+      "keywords": [
+        "Foundation model",
+        "Y tế"
+      ],
+      "featured": true,
+      "geo_perspective": {
+        "science_value": "Gợi mở vai trò của mô hình nền tảng không gian trong liên kết các đặc trưng địa điểm với dữ liệu sức khỏe, đồng thời đặt ra vấn đề sai lệch không gian.",
+        "vietnam_application": "Có thể nghiên cứu mức độ tiếp cận dịch vụ y tế và không gian xanh tại Hà Nội, với lưu ý bảo mật và tính đại diện của dữ liệu.",
+        "tools": [
+          "GIS",
+          "Phân tích tiếp cận không gian",
+          "GeoAI",
+          "Kiểm định không gian"
+        ],
+        "research_prompt": "Đề xuất thử nghiệm phân tích mối liên hệ giữa môi trường cư trú và chỉ báo y tế ở quy mô phường.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-geography-ai",
+      "title_vi": "Địa lý có thể huấn luyện AI bằng các quan hệ không gian như thế nào?",
+      "title_original": "Can Geography Train AI? When Spatial Relationships Become the Labels",
+      "summary_vi": "Bài viết đặt vấn đề sử dụng quan hệ không gian để xây dựng tín hiệu học cho AI, thay vì chỉ dựa vào nhãn của các đối tượng độc lập. Một chủ đề đáng theo dõi trong nghiên cứu GeoAI.",
+      "published": "2026-10-04",
+      "author": "Aravindh Subramanian",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/can-geography-train-ai-when-spatial-relationships-become-the-labels/",
+      "keywords": [
+        "Spatial learning",
+        "AI"
+      ],
+      "geo_perspective": {
+        "science_value": "Nhấn mạnh khả năng sử dụng quan hệ láng giềng, khoảng cách và cấu trúc không gian làm tín hiệu học máy, thay vì nhãn đối tượng riêng lẻ.",
+        "vietnam_application": "Có thể thử cho phân loại lớp phủ đất và mô hình hóa cấu trúc cảnh quan ở Ba Vì hoặc Hà Nội.",
+        "tools": [
+          "GeoAI",
+          "Spatial graph",
+          "Google Earth Engine",
+          "GIS"
+        ],
+        "research_prompt": "So sánh mô hình học theo nhãn pixel với mô hình có thông tin lân cận không gian.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-offline",
+      "title_vi": "Các ứng dụng bản đồ ngoại tuyến đáng chú ý năm 2026",
+      "title_original": "Best Offline Map Apps for 2026: What Still Works Without Internet",
+      "summary_vi": "Geoawesome so sánh các ứng dụng dẫn đường và bản đồ dùng khi mất kết nối, phân biệt chức năng hoạt động ngoại tuyến và những tính năng AI vẫn cần mạng.",
+      "published": "2026-10-06",
+      "author": "Sebastian Walczak",
+      "category": "Bản đồ số",
+      "url": "https://geoawesome.com/best-offline-map-apps-for-2026-what-still-works-without-internet/",
+      "keywords": [
+        "Offline maps",
+        "Navigation"
+      ],
+      "geo_perspective": {
+        "science_value": "Bản đồ ngoại tuyến là bài toán về độ tin cậy dữ liệu, khả năng điều hướng và tính sẵn sàng của hệ thống khi gián đoạn kết nối.",
+        "vietnam_application": "Có thể thiết kế bản đồ thực địa ngoại tuyến cho sinh viên khảo sát ở vùng núi hoặc khu vực ít sóng.",
+        "tools": [
+          "QGIS",
+          "QField",
+          "GeoPackage",
+          "GPS"
+        ],
+        "research_prompt": "Thiết kế bài thực hành kiểm thử bản đồ ngoại tuyến theo độ chính xác vị trí, dữ liệu nền và tốc độ tải.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-bolt",
+      "title_vi": "Xe scooter của Bolt trở thành cảm biến lập bản đồ khả năng tiếp cận đô thị",
+      "title_original": "Bolt’s Scooters Are Becoming Accessibility Sensors",
+      "summary_vi": "Dữ liệu từ phương tiện di chuyển chia sẻ được sử dụng để đánh giá 550 km đường phố Tallinn, gợi mở khả năng cập nhật liên tục bản đồ tiếp cận cho đô thị.",
+      "published": "2026-09-28",
+      "author": "Aleks Buczkowski",
+      "category": "Đô thị thông minh",
+      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+      "keywords": [
+        "Smart city",
+        "Mobility"
+      ],
+      "geo_perspective": {
+        "science_value": "Dữ liệu di chuyển có thể hỗ trợ nhận diện rào cản tiếp cận đường phố, nhưng cần đánh giá thiên lệch theo tuyến và nhóm người sử dụng.",
+        "vietnam_application": "Có thể thí điểm đánh giá tính tiếp cận vỉa hè và tuyến phố tại Hà Nội kết hợp quan sát thực địa.",
+        "tools": [
+          "WebGIS",
+          "GPS",
+          "Phân tích mạng lưới",
+          "Khảo sát thực địa"
+        ],
+        "research_prompt": "Đề xuất chỉ số tiếp cận cho người đi bộ, kiểm định với dữ liệu điều tra trực tiếp.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-superspectral",
+      "title_vi": "Xu hướng ảnh siêu phổ: vượt ra ngoài giới hạn ảnh đa phổ truyền thống",
+      "title_original": "The Superspectral Shift: Why the Remote Sensing World Is Moving Away from Old Multispectral Limits",
+      "summary_vi": "Bài viết nhìn nhận sự phát triển của quan sát Trái Đất với dải phổ phong phú hơn và những cơ hội phân tích vượt ra ngoài ảnh đa phổ thông thường.",
+      "published": "2026-09-23",
+      "author": "Harshaditya Gaur",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/the-superspectral-shift-why-the-remote-sensing-world-is-moving-away-from-old-multispectral-limits/",
+      "keywords": [
+        "Superspectral",
+        "Earth observation"
+      ],
+      "geo_perspective": {
+        "science_value": "Dải phổ phong phú hơn có tiềm năng cải thiện phân biệt vật liệu và đặc tính môi trường, song chất lượng phụ thuộc hiệu chuẩn và độ phân giải.",
+        "vietnam_application": "Có thể khảo sát ứng dụng nhận dạng thảm thực vật hoặc chất lượng nước vùng ven biển Việt Nam sau khi có dữ liệu phù hợp.",
+        "tools": [
+          "Viễn thám phổ",
+          "Phân loại phổ",
+          "Google Earth Engine",
+          "ArcGIS Pro"
+        ],
+        "research_prompt": "Thiết kế so sánh khả năng phân loại giữa ảnh đa phổ và dữ liệu nhiều dải phổ hơn trên cùng địa bàn.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    }
+  ]
+}
