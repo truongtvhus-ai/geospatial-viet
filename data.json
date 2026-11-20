@@ -1,7 +1,159 @@
 {
-  "updated_at": "2026-10-30T09:25:00+07:00",
-  "status": "demo",
+  "updated_at": "2026-11-20T09:04:13+07:00",
+  "status": "translated",
+  "version": "3.0",
   "articles": [
+    {
+      "id": "a1a3df3e793766",
+      "title_original": "Tech for Earth: Ask the Planet a Question",
+      "title_vi": "Tech for Earth: Ask the Planet a Question",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-14",
+      "author": "Sebastian Walczak",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/tech-for-earth-ask-the-planet-a-question/",
+      "keywords": [
+        "Fun",
+        "GeoAI",
+        "GeoDev"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "9f7e28aa414b91",
+      "title_original": "BlackSky’s Record Quarter Strengthens the Business Case for Sovereign Earth Observation",
+      "title_vi": "BlackSky’s Record Quarter Strengthens the Business Case for Sovereign Earth Observation",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-14",
+      "author": "Aleks Buczkowski",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/blacksky-q3-2026-sovereign-earth-observation/",
+      "keywords": [
+        "Business",
+        "BlackSky",
+        "defence technology"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "d385c3de432d11",
+      "title_original": "Trimble’s Q3 Results Suggest Its Subscription Transition Is Working But Hardware Still Matters",
+      "title_vi": "Trimble’s Q3 Results Suggest Its Subscription Transition Is Working But Hardware Still Matters",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-13",
+      "author": "Aleks Buczkowski",
+      "category": "Khác",
+      "url": "https://geoawesome.com/trimble-q3-2026-subscriptions-geospatial-hardware/",
+      "keywords": [
+        "Business",
+        "construction technology",
+        "earnings"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "893c07146615dc",
+      "title_original": "Shield AI’s $5.3 Billion Echodyne Deal Puts a Premium on the Sensor Layer of Autonomy",
+      "title_vi": "Shield AI’s $5.3 Billion Echodyne Deal Puts a Premium on the Sensor Layer of Autonomy",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-13",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/shield-ai-echodyne-acquisition-radar-autonomy-valuation/",
+      "keywords": [
+        "Business",
+        "autonomy",
+        "counter-drone"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "0ade7575894403",
+      "title_original": "Online Session: Scaling Earth Observation Across the Enterprise",
+      "title_vi": "Online Session: Scaling Earth Observation Across the Enterprise",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-12",
+      "author": "GeoawesomeTeam",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/online-session-scaling-earth-observation-across-the-enterprise/",
+      "keywords": [
+        "Events",
+        "Aleksander Buczkowski",
+        "Ashley Weltz"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "2ab8d86057880a",
+      "title_original": "Mapbox, BMW and the Technology Behind the Magic Carpet",
+      "title_vi": "Mapbox, BMW and the Technology Behind the Magic Carpet",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-11",
+      "author": "Muthu Kumar",
+      "category": "Khác",
+      "url": "https://geoawesome.com/mapbox-bmw-and-the-technology-behind-the-magic-carpet/",
+      "keywords": [
+        "Business",
+        "Featured"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "98d1c2d1b2f3e7",
+      "title_original": "CoStar’s $730 Million Vexcel Deal Is Really a Bet on Owning the Geospatial Data Supply Chain",
+      "title_vi": "CoStar’s $730 Million Vexcel Deal Is Really a Bet on Owning the Geospatial Data Supply Chain",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-11",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/costar-vexcel-acquisition-geospatial-data-supply-chain/",
+      "keywords": [
+        "Business",
+        "Aerial Imagery",
+        "CoStar"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "11b6194da5fab8",
+      "title_original": "This Earth-Observation AI Learns From the Maps It Made Last Year",
+      "title_vi": "This Earth-Observation AI Learns From the Maps It Made Last Year",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-04",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/this-earth-observation-ai-learns-from-the-maps-it-made-last-year/",
+      "keywords": [
+        "GeoAI",
+        "Science",
+        "Space"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
     {
       "id": "geo-hexagon",
       "title_vi": "Hexagon mua Rocscience: kết nối giám sát địa kỹ thuật với mô hình dự báo",
@@ -57,32 +209,6 @@
       }
     },
     {
-      "id": "geo-geography-ai",
-      "title_vi": "Địa lý có thể huấn luyện AI bằng các quan hệ không gian như thế nào?",
-      "title_original": "Can Geography Train AI? When Spatial Relationships Become the Labels",
-      "summary_vi": "Bài viết đặt vấn đề sử dụng quan hệ không gian để xây dựng tín hiệu học cho AI, thay vì chỉ dựa vào nhãn của các đối tượng độc lập. Một chủ đề đáng theo dõi trong nghiên cứu GeoAI.",
-      "published": "2026-10-04",
-      "author": "Aravindh Subramanian",
-      "category": "GeoAI",
-      "url": "https://geoawesome.com/can-geography-train-ai-when-spatial-relationships-become-the-labels/",
-      "keywords": [
-        "Spatial learning",
-        "AI"
-      ],
-      "geo_perspective": {
-        "science_value": "Nhấn mạnh khả năng sử dụng quan hệ láng giềng, khoảng cách và cấu trúc không gian làm tín hiệu học máy, thay vì nhãn đối tượng riêng lẻ.",
-        "vietnam_application": "Có thể thử cho phân loại lớp phủ đất và mô hình hóa cấu trúc cảnh quan ở Ba Vì hoặc Hà Nội.",
-        "tools": [
-          "GeoAI",
-          "Spatial graph",
-          "Google Earth Engine",
-          "GIS"
-        ],
-        "research_prompt": "So sánh mô hình học theo nhãn pixel với mô hình có thông tin lân cận không gian.",
-        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
-      }
-    },
-    {
       "id": "geo-offline",
       "title_vi": "Các ứng dụng bản đồ ngoại tuyến đáng chú ý năm 2026",
       "title_original": "Best Offline Map Apps for 2026: What Still Works Without Internet",
@@ -105,6 +231,32 @@
           "GPS"
         ],
         "research_prompt": "Thiết kế bài thực hành kiểm thử bản đồ ngoại tuyến theo độ chính xác vị trí, dữ liệu nền và tốc độ tải.",
+        "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
+      }
+    },
+    {
+      "id": "geo-geography-ai",
+      "title_vi": "Địa lý có thể huấn luyện AI bằng các quan hệ không gian như thế nào?",
+      "title_original": "Can Geography Train AI? When Spatial Relationships Become the Labels",
+      "summary_vi": "Bài viết đặt vấn đề sử dụng quan hệ không gian để xây dựng tín hiệu học cho AI, thay vì chỉ dựa vào nhãn của các đối tượng độc lập. Một chủ đề đáng theo dõi trong nghiên cứu GeoAI.",
+      "published": "2026-10-04",
+      "author": "Aravindh Subramanian",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/can-geography-train-ai-when-spatial-relationships-become-the-labels/",
+      "keywords": [
+        "Spatial learning",
+        "AI"
+      ],
+      "geo_perspective": {
+        "science_value": "Nhấn mạnh khả năng sử dụng quan hệ láng giềng, khoảng cách và cấu trúc không gian làm tín hiệu học máy, thay vì nhãn đối tượng riêng lẻ.",
+        "vietnam_application": "Có thể thử cho phân loại lớp phủ đất và mô hình hóa cấu trúc cảnh quan ở Ba Vì hoặc Hà Nội.",
+        "tools": [
+          "GeoAI",
+          "Spatial graph",
+          "Google Earth Engine",
+          "GIS"
+        ],
+        "research_prompt": "So sánh mô hình học theo nhãn pixel với mô hình có thông tin lân cận không gian.",
         "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
       }
     },
