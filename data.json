@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:04:13+07:00",
+  "updated_at": "2026-11-21T09:06:45+07:00",
   "status": "translated",
   "version": "3.0",
   "articles": [
@@ -155,6 +155,62 @@
       "geo_perspective": null
     },
     {
+      "id": "ce08fdbd20922d",
+      "title_original": "Can Google Maps Help Update Income Maps Between Censuses?",
+      "title_vi": "Can Google Maps Help Update Income Maps Between Censuses?",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-04",
+      "author": "Aleks Buczkowski",
+      "category": "Công nghệ GIS",
+      "url": "https://geoawesome.com/can-google-maps-help-update-income-maps-between-censuses/",
+      "keywords": [
+        "Science",
+        "GIS",
+        "Google Maps"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "f3dcc7428c9eb1",
+      "title_original": "Why GISTC International should be on your October 2027 radar",
+      "title_vi": "Why GISTC International should be on your October 2027 radar",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-03",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/gistc-international-2027/",
+      "keywords": [
+        "Events",
+        "GeoAI",
+        "Geospatial AI"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "e620d37c64e45f",
+      "title_original": "RustGIS vs QGIS: We Tested Start-Up Speed, Buffers, and Raster Performance",
+      "title_vi": "RustGIS vs QGIS: We Tested Start-Up Speed, Buffers, and Raster Performance",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-10-31",
+      "author": "Sebastian Walczak",
+      "category": "Công nghệ GIS",
+      "url": "https://geoawesome.com/rustgis-vs-qgis-we-tested-start-up-speed-buffers-and-raster-performance/",
+      "keywords": [
+        "GeoDev",
+        "News"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
       "id": "geo-hexagon",
       "title_vi": "Hexagon mua Rocscience: kết nối giám sát địa kỹ thuật với mô hình dự báo",
       "title_original": "Hexagon Is Buying Rocscience to Close the Gap Between Monitoring and Prediction",
@@ -261,6 +317,23 @@
       }
     },
     {
+      "id": "fadfd69a11bdc2",
+      "title_original": "Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching",
+      "title_vi": "Tech for Earth: Methane, Penguins, and a Volcano Nobody Was Watching",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-09-29",
+      "author": "Sebastian Walczak",
+      "category": "Khác",
+      "url": "https://geoawesome.com/tech-for-earth-methane-penguins-and-a-volcano-nobody-was-watching/",
+      "keywords": [
+        "News"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
       "id": "geo-bolt",
       "title_vi": "Xe scooter của Bolt trở thành cảm biến lập bản đồ khả năng tiếp cận đô thị",
       "title_original": "Bolt’s Scooters Are Becoming Accessibility Sensors",
@@ -311,6 +384,82 @@
         "research_prompt": "Thiết kế so sánh khả năng phân loại giữa ảnh đa phổ và dữ liệu nhiều dải phổ hơn trên cùng địa bàn.",
         "evidence_limit": "Nhận định chuyên môn mang tính gợi ý, không phải kết luận của tác giả; cần đọc bài nguồn và kiểm chứng dữ liệu trước khi sử dụng."
       }
+    },
+    {
+      "id": "30807e0ec89ed9",
+      "title_original": "Why Stage Five Is Buying Indoor Location Specialist Loplat",
+      "title_vi": "Why Stage Five Is Buying Indoor Location Specialist Loplat",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-09-21",
+      "author": "Aleks Buczkowski",
+      "category": "Khác",
+      "url": "https://geoawesome.com/stage-five-loplat-indoor-location-intelligence-acquisition/",
+      "keywords": [
+        "Business",
+        "News",
+        "acquisition"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "29abc513b992d1",
+      "title_original": "Overture’s August Release Shows Open Maps Becoming Data Infrastructure",
+      "title_vi": "Overture’s August Release Shows Open Maps Becoming Data Infrastructure",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-09-12",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/overture-august-release-open-map-data-infrastructure/",
+      "keywords": [
+        "News",
+        "GeoAI",
+        "GeoParquet"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "c60c66697fa41a",
+      "title_original": "A New World Map: The UN Votes to Show Africa’s True Size",
+      "title_vi": "A New World Map: The UN Votes to Show Africa’s True Size",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-09-06",
+      "author": "Sebastian Walczak",
+      "category": "Công nghệ GIS",
+      "url": "https://geoawesome.com/a-new-world-map-the-un-votes-to-show-africas-true-size/",
+      "keywords": [
+        "News",
+        "aerial navigation",
+        "Africa true size"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "2e0df11fd9a47c",
+      "title_original": "Esri Brings Airbus, Vantor and Nearmap Under One Global Imagery Basemap",
+      "title_vi": "Esri Brings Airbus, Vantor and Nearmap Under One Global Imagery Basemap",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-09-04",
+      "author": "Aleks Buczkowski",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/esri-world-imagery-airbus-vantor-nearmap/",
+      "keywords": [
+        "News",
+        "Space",
+        "Aerial Imagery"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
     }
   ]
 }
