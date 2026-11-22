@@ -1,8 +1,65 @@
 {
-  "updated_at": "2026-11-21T09:06:45+07:00",
+  "updated_at": "2026-11-22T09:02:41+07:00",
   "status": "translated",
   "version": "3.0",
   "articles": [
+    {
+      "id": "028753fa0471cd",
+      "title_original": "Snowflake Makes Maps a Native Output of the Enterprise AI Agent",
+      "title_vi": "Snowflake Makes Maps a Native Output of the Enterprise AI Agent",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-21",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/snowflake-cowork-geospatial-maps-enterprise-ai/",
+      "keywords": [
+        "GeoAI",
+        "agentic AI",
+        "Carto"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "acd26e0d6fa35e",
+      "title_original": "ICEYE’s €2.05B Avio Bid Would Turn a SAR Company Into a European Space Prime",
+      "title_vi": "ICEYE’s €2.05B Avio Bid Would Turn a SAR Company Into a European Space Prime",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-21",
+      "author": "Aleks Buczkowski",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/iceye-avio-acquisition-european-space-prime/",
+      "keywords": [
+        "Business",
+        "Avio",
+        "Earth Observation"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "c391b4ce8db79e",
+      "title_original": "Top 20 Maps and Charts That Explain Thanksgiving (2026 Edition)",
+      "title_vi": "Top 20 Maps and Charts That Explain Thanksgiving (2026 Edition)",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-21",
+      "author": "Aleks Buczkowski",
+      "category": "Bản đồ số",
+      "url": "https://geoawesome.com/top-14-maps-charts-explain-thanksgiving/",
+      "keywords": [
+        "Featured",
+        "Fun",
+        "Ideas"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
     {
       "id": "a1a3df3e793766",
       "title_original": "Tech for Earth: Ask the Planet a Question",
@@ -455,6 +512,25 @@
         "News",
         "Space",
         "Aerial Imagery"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
+    {
+      "id": "ef010e83f14e8a",
+      "title_original": "Tech for Earth: The Machine Builds Its Own Model of the Planet",
+      "title_vi": "Tech for Earth: The Machine Builds Its Own Model of the Planet",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-08-30",
+      "author": "Sebastian Walczak",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/tech-for-earth-the-machine-builds-its-own-model-of-the-planet/",
+      "keywords": [
+        "Ideas",
+        "Insights",
+        "News"
       ],
       "analysis": null,
       "source_basis": "unprocessed",
