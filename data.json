@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-22T09:02:41+07:00",
+  "updated_at": "2026-11-23T09:12:46+07:00",
   "status": "translated",
   "version": "3.0",
   "articles": [
+    {
+      "id": "6f6bb91bac77b4",
+      "title_original": "Q-CTRL Raises $290M as Quantum Navigation Becomes the Near-Term Business",
+      "title_vi": "Q-CTRL Raises $290M as Quantum Navigation Becomes the Near-Term Business",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-22",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/q-ctrl-290m-quantum-navigation-near-term-business/",
+      "keywords": [
+        "Business",
+        "alternative PNT",
+        "autonomous systems"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
     {
       "id": "028753fa0471cd",
       "title_original": "Snowflake Makes Maps a Native Output of the Enterprise AI Agent",
