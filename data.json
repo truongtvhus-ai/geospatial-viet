@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-23T09:12:46+07:00",
+  "updated_at": "2026-11-24T09:12:47+07:00",
   "status": "translated",
   "version": "3.0",
   "articles": [
+    {
+      "id": "eb0cc35a799e81",
+      "title_original": "SE3 Raises $30M to Make Spatial Intelligence the Operating Layer for Drone Fleets",
+      "title_vi": "SE3 Raises $30M to Make Spatial Intelligence the Operating Layer for Drone Fleets",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-23",
+      "author": "Aleks Buczkowski",
+      "category": "GeoAI",
+      "url": "https://geoawesome.com/se3-30m-spatial-intelligence-drone-fleets/",
+      "keywords": [
+        "Business",
+        "autonomous systems",
+        "defense technology"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
     {
       "id": "6f6bb91bac77b4",
       "title_original": "Q-CTRL Raises $290M as Quantum Navigation Becomes the Near-Term Business",
