@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-11-25T09:19:22+07:00",
+  "updated_at": "2026-11-26T09:18:02+07:00",
   "status": "translated",
   "version": "3.0",
   "articles": [
+    {
+      "id": "bf2105598064f8",
+      "title_original": "SkySense Raises ¥150M to Build a Persistent Earth Observation Layer in the Stratosphere",
+      "title_vi": "SkySense Raises ¥150M to Build a Persistent Earth Observation Layer in the Stratosphere",
+      "summary_vi": "Chưa có bản phân tích tiếng Việt; xem bài gốc.",
+      "published": "2026-11-25",
+      "author": "Aleks Buczkowski",
+      "category": "Viễn thám & EO",
+      "url": "https://geoawesome.com/skysense-seed-persistent-earth-observation-haps/",
+      "keywords": [
+        "Business",
+        "airships",
+        "Earth Observation"
+      ],
+      "analysis": null,
+      "source_basis": "unprocessed",
+      "content_rights": "analysis_only",
+      "geo_perspective": null
+    },
     {
       "id": "eb0cc35a799e81",
       "title_original": "SE3 Raises $30M to Make Spatial Intelligence the Operating Layer for Drone Fleets",
